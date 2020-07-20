@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  padding-top: 50px;
+    color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px;
+  padding-top: 10px;
+}
+#MenuH
+{
+    position: fixed;
+    Right: 100px;
+   padding-bottom: 10px;
+  }
